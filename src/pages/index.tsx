@@ -1,4 +1,4 @@
-import AboutMe from '../components/AboutMe'
+import AboutMe from '../app/aboutMe/page'
 import Skills from '@/components/Skills';
 import WorkExamples from '@/components/WorkExamples';
 import SocialMedia from '@/components/SocialMedia';
@@ -13,9 +13,6 @@ const Home = () => {
         <SocialMedia />
         <div className='flex-1 overflow-auto pr-7'>
           {/* Sections */}
-          <div id="about">
-            <AboutMe />
-          </div>
           <hr className="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700"/>
           <div id="work">
             <WorkExamples />

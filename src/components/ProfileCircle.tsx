@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import profileImage from '../../public/Barry-Headshot.jpeg'
+import profileImage from '../../public/musicBoxReid.jpg'
 
 const ProfileCircle = ( ) => {
   console.log( 'ProfileCircle: ', profileImage)
