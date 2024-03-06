@@ -1,5 +1,5 @@
 import AboutMe from '../app/aboutMe/page'
-import Skills from '@/components/Skills';
+import Skills from '@/app/skills/page';
 import WorkExamples from '@/components/WorkExamples';
 import SocialMedia from '@/components/SocialMedia';
 import Navbar from '../components/Navbar';
@@ -18,9 +18,7 @@ const Home = () => {
             <WorkExamples />
           </div>
           <hr className="w-48 h-1 mx-auto my-4 bg-gray-100 border-0 rounded md:my-10 dark:bg-gray-700"/>
-          <div id="skills">
-            <Skills />
-          </div>
+          
         </div>
       </div>
     </main>
