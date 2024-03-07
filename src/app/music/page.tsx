@@ -6,7 +6,7 @@ const Music = () => {
   return (
     <>
       <Head>
-        <title>About Me - Reid Poole</title>
+        <title>Music - Reid Poole</title>
       </Head>
       <SocialMedia />
         <div className='flex row'>
