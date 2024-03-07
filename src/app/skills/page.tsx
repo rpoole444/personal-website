@@ -11,7 +11,7 @@ const Skills = () => {
       <SocialMedia />
         <div className='flex row'>
           <Navbar />
-          <section id='skills' className="bg-gray-100 p-6">
+          <section id='skills' className="bg-gray-100 p-6 w-2/3 h-full">
             <h2 className='text-xl text-grey-800 font-semibold mb-3'>Core Skills & Expertise</h2>
             <div className='space-y-4'>
               <div className="skill-category">

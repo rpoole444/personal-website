@@ -11,7 +11,7 @@ const Music = () => {
       <SocialMedia />
         <div className='flex row'>
           <Navbar />
-          <div className="container mx-auto px-4 text-center">
+          <div className="container mx-auto px-4 text-center w-2/3 h-full">
             <h1 className="text-xl font-bold">Music Page</h1>
             <p>Under Construction</p>
             {/* ...Add your construction image here... */}

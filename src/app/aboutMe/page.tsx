@@ -12,7 +12,7 @@ const AboutMe = () => {
       <SocialMedia />
         <div className='flex row'>
           <Navbar />
-          <div id="about" className='p-6 bg-gray-400 space-y-3'>
+          <div id="about" className='p-6 bg-gray-400 space-y-3 w-2/3 h-full'>
             <h2 className="text-2xl font-semibold text-gray-800">About Me</h2>
             <p>
               Hello! I'm Reid Poole, a dynamic Software Engineer based in Colorado Springs, with a unique harmony of music and coding in my repertoire. Transitioning from a celebrated 20-year career as a musician and educator in New Orleans to the intricate world of software development, I bring a symphony of creativity, problem-solving, and teamwork to the tech stage.

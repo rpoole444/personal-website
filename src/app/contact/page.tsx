@@ -71,7 +71,7 @@ function handleSubmit(event: any): void {
       <SocialMedia />
       <div className='flex row'>
         <Navbar />
-        <div className='container mx-auto my-8'>
+        <div className='container mx-auto my-8 w-2/3 h-full'>
           <h1 className='text-2xl font-bold text-center mb-4'>Contact Me</h1>
           <div className='flex flex-col items-center'>
             <form className='w-full max-w-lg' onSubmit={handleSubmit}>
