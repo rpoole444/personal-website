@@ -2,7 +2,7 @@ import Image from 'next/image';
 import profileImage from '../../public/musicBoxReid.jpg'
 
 const ProfileCircle = ( ) => {
-  console.log( 'ProfileCircle: ', profileImage)
+  
   return (
     <div className="rounded-full border border-gray-300 relative w-64 h-64 overflow-hidden">
       <Image 
