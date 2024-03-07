@@ -10,7 +10,7 @@ const Navbar = () => {
           </div>
           <nav className="flex flex-col items-center mt-4">
             <a href="/aboutMe" className='text-lg text-gray-700 hover:text-gray-900 py-1'>About Me</a>
-            <a href="#work" className='text-lg text-gray-700 hover:text-gray-900 py-1'>Work Examples</a>
+            <a href="/projects" className='text-lg text-gray-700 hover:text-gray-900 py-1'>Projects</a>
             <a href="/skills" className='text-lg text-gray-700 hover:text-gray-900 py-1'>Core Skills and Technologies</a>
             <a href="/music" className='text-lg text-gray-700 hover:text-gray-900 py-1'>Music</a>
             <Link href="/contact" className='text-lg text-gray-700 hover:text-gray-900 py-1'>
