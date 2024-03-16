@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import SocialMedia from '@/components/SocialMedia';
 import Navbar from '@/components/Navbar';
-import "../../styles/globals.css"
+import "../styles/globals.css"
 const Skills = () => {
   return (
      <>
