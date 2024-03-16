@@ -1,7 +1,7 @@
 import Navbar from "@/components/Navbar";
 import SocialMedia from "@/components/SocialMedia";
 import Head from "next/head";
-
+import '../styles/globals.css'
 
 const Technologies = () => {
   return (
